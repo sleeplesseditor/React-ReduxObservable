@@ -1,5 +1,6 @@
 {
   "name": "ro-ping",
+  "author": "Josh Bryson",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +10,9 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "redux": "^4.0.5",
+    "redux-observable": "^1.2.0",
+    "rxjs": "^6.6.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
